@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>images/maximize_icon.png</file>
+        <file>images/volume_icon.png</file>
+        <file>images/mute_icon.png</file>
+        <file>images/LogoMediaPlayer.png</file>
+    </qresource>
+</RCC>
